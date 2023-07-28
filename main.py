@@ -19,10 +19,11 @@ window.geometry("500x350+{}+{}".format(window.winfo_screenwidth() // 2 - 375, wi
 
 def connect():
     mydb = mysql.connector.connect(
-        host="bah6qv28fznfoj3pyusx-mysql.services.clever-cloud.com",
-        user="uyvrtgzasma2lvv0",
-        password="uCQPecJt0uEjrCC9lblw",
-        database="bah6qv28fznfoj3pyusx"
+        # put your credentials here
+        host="",
+        user="",
+        password="",
+        database=""
     )
     return mydb
 
