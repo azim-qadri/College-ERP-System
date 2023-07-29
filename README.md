@@ -51,6 +51,10 @@ This College ERP software is designed to manage administrative, faculty, and stu
 
 - The program assumes that the database schema and tables are already set up as per the code implementation.
 
+## Screenshots
+
+![Image](https://github.com/azim-qadri/College-ERP-System/blob/main/Screenshot%20(81).png) ![Image](https://github.com/azim-qadri/College-ERP-System/blob/main/Screenshot%20(82).png)
+
 ## Disclaimer
 
 This software is provided as-is without any warranty. Use it responsibly and at your own risk. The developers are not liable for any damages caused by the use or misuse of this ERP system.
